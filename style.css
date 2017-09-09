@@ -1,6 +1,7 @@
 body {
     margin:0;
     font-size: 20px;
+    background: #b5e6f9;
 }
 
 h1 {
@@ -158,8 +159,8 @@ nav .logo {
     color:white;
 }
 
-.moreInfo p{
-    padding-top: 60px;
+.moreInfo span{
+    padding-top: 70px;
 }
 
 .moreInfoList ul {
