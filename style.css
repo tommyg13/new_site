@@ -296,7 +296,7 @@ nav .logo {
     .about {
         padding:10px;
     }
-    .moreInfoList ul, .moreInfo span, .worksTopInfo  {
+    .moreInfoList ul, .moreInfo p, .worksTopInfo  {
         padding-bottom: 60px;
     }
 
@@ -307,6 +307,7 @@ nav .logo {
         position: absolute;
         top:20%;
     }
+
 }
 
 @media (max-width: 350px) {
